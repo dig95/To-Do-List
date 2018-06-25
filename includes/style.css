@@ -1,0 +1,58 @@
+body
+{
+	width: 1400px;
+	margin-left:auto;
+	margin-right:auto;
+	background: rgba(44, 44, 44, 0.4);
+}
+
+
+
+.todo
+{
+	width: 300px;
+	display:block;
+	margin-left: 30px;
+	margin-top: 30px;
+	background: rgba(44, 44, 44, 0.4);
+	padding: 20px;
+}
+h1
+{
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+}
+.validate
+{
+	margin-top: 10px;
+	margin-left: 65px;
+	
+}
+form
+{
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 15px;
+	background: rgba(44, 44, 44, 0.4);
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+input
+{
+	font-size: 15px;
+
+}
+.data
+{
+	margin-left:-35px;
+	margin-top: 10px;
+}
+.submit
+{
+	margin-top: 15px;
+	position: relative;
+	margin-left: 52px;	
+}
